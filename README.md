@@ -60,4 +60,6 @@ This project analyzes customer churn data from a telecom company to identify key
 
 ## 📎 Credit
 Dataset source: [IBM Sample Datasets](https://www.ibm.com/communities/analytics/watson-analytics-blog/)
+Analyst: Oluwaleke Oni
+Email Address: oluwalekeoni@gmail.com
 
